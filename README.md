@@ -5,7 +5,8 @@ Cybersecurity/Network Analyst focused on Network Intrusion Detection Systems (NI
 ## 🔏Focus Areas
 • Network Security Monitoring
 • NIDS (Snort, Suricata, Wazuh)
-• Traffic Analysis & Threat Detection
+• Traffic Analysis
+• Threat Detection
 
 ## Projects
 • Testing NIDS in Maritime Environment (Thesis)
