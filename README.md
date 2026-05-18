@@ -7,11 +7,13 @@ Cybersecurity/Network Analyst focused on Network Intrusion Detection Systems (NI
 • NIDS (Snort, Suricata, Wazuh)
 • Traffic Analysis
 • Threat Detection
+• AI automation
 
 ## Projects
 • Testing NIDS in Maritime Environment (Thesis)
 • NMEA spoofing detection lab
 • Face recognition prototype
+• Social Media content creation using AI automation
 
 ## Tools 
 • SEIM
@@ -19,6 +21,8 @@ Cybersecurity/Network Analyst focused on Network Intrusion Detection Systems (NI
 • Wireshark
 • Linux
 • Python
+• Nmap
+• Packet tracer
 
 ## Contact
 frankewasy@gmail.com
